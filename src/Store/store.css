@@ -1,0 +1,33 @@
+.store__wrap {
+    justify-content: flex-end;
+}
+
+.store__left {
+    position : fixed;
+    z-index  : 1;
+    top      : 30%;
+    left     : 12%;
+    transform: translateY(-50%);
+    width    : calc(1140px/4);
+}
+
+.store__nav {
+    display      : block;
+    margin-bottom: 10px;
+    width        : 100%;
+    text-align   : left;
+    padding-left : 20px;
+}
+
+.store__right h2 {
+    font-weight: normal;
+    text-align : center;
+}
+
+.card-title {
+    font-size: 16px;
+}
+
+.modal__right span {
+    font-weight: 600;
+}
