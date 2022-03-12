@@ -6,7 +6,7 @@ export default class
     render() {
         let { sp, showInfo } = this.props
         return (
-            <div className='card' key={`sp-${sp.id}`}>
+            <div className='card'>
                 <img src={sp.image} className="card-img-top p-3" alt="..." />
                 <div className="card-body">
                     <h5 className="card-title">{sp.name}</h5>

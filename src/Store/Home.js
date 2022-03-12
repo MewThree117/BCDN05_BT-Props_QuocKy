@@ -14,7 +14,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 995,
-            "image": "http://svcy3.myclass.vn/images/adidas-prophere.png"
+            "image": "./image/img1.png"
         },
         {
             "id": 2,
@@ -24,7 +24,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 990,
-            "image": "http://svcy3.myclass.vn/images/adidas-prophere-black-white.png"
+            "image": "./image/img2.png"
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 415,
-            "image": "http://svcy3.myclass.vn/images/adidas-prophere-customize.png"
+            "image": "./image/img3.png"
         },
         {
             "id": 4,
@@ -44,7 +44,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 542,
-            "image": "http://svcy3.myclass.vn/images/adidas-super-star-red.png"
+            "image": "./image/img4.png"
         },
         {
             "id": 5,
@@ -54,7 +54,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 674,
-            "image": "http://svcy3.myclass.vn/images/adidas-swift-run.png"
+            "image": "./image/img5.png"
         },
         {
             "id": 6,
@@ -64,7 +64,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 456,
-            "image": "http://svcy3.myclass.vn/images/adidas-tenisky-super-star.png"
+            "image": "./image/img6.png"
         },
         {
             "id": 7,
@@ -74,7 +74,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 854,
-            "image": "http://svcy3.myclass.vn/images/adidas-ultraboost-4.png"
+            "image": "./image/img7.png"
         },
         {
             "id": 8,
@@ -84,7 +84,7 @@ export default class Home extends Component {
             "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
             "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
             "quantity": 524,
-            "image": "http://svcy3.myclass.vn/images/adidas-yeezy-350.png"
+            "image": "./image/img8.png"
         },
         {
             "id": 9,
@@ -94,7 +94,7 @@ export default class Home extends Component {
             "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             "shortDescription": "Paul George is the rare high-percentage shooter",
             "quantity": 599,
-            "image": "http://svcy3.myclass.vn/images/nike-adapt-bb.png"
+            "image": "./image/img9.png"
         },
         {
             "id": 10,
@@ -104,7 +104,7 @@ export default class Home extends Component {
             "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             "shortDescription": "Paul George is the rare high-percentage shooter",
             "quantity": 984,
-            "image": "http://svcy3.myclass.vn/images/nike-air-max-97.png"
+            "image": "./image/img10.png"
         },
         {
             "id": 11,
@@ -114,7 +114,7 @@ export default class Home extends Component {
             "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             "shortDescription": "Paul George is the rare high-percentage shooter",
             "quantity": 875,
-            "image": "http://svcy3.myclass.vn/images/nike-air-max-97-blue.png"
+            "image": "./image/img11.png"
         },
         {
             "id": 12,
@@ -124,7 +124,7 @@ export default class Home extends Component {
             "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
             "shortDescription": "Paul George is the rare high-percentage shooter",
             "quantity": 445,
-            "image": "http://svcy3.myclass.vn/images/nike-air-max-270-react.png"
+            "image": "./image/img12.png"
         }
     ]
 
